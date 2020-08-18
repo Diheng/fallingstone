@@ -4,3 +4,5 @@ title: About
 ---
 
 This is the personal website of Aishu, the alter ego of Diheng. All opinion is personal. All contents are original.
+
+需转载请联系本人。未经同意不得转载。
