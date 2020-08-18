@@ -3,4 +3,4 @@ date: "2016-05-05T21:48:51-07:00"
 title: About
 ---
 
-This is the personal website of Aishu. All opinion is personal. 
+This is the personal website of Aishu, the alter ego of Diheng. All opinion is personal. All contents are original.
