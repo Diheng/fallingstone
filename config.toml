@@ -18,6 +18,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "Twitter"
     url = "https://twitter.com/dihengz"
+[[menu.main]]
+    name = "豆瓣"
+    url = "https://www.douban.com/people/yvesadam/"
 
 [params]
     description = "Aishu's blog for everything."
