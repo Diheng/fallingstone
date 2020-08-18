@@ -1,44 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on A Hugo website</title>
+    <title>Posts on Fallingstone</title>
     <link>/post/</link>
-    <description>Recent content in Posts on A Hugo website</description>
+    <description>Recent content in Posts on Fallingstone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 22 Oct 2011 13:09:13 -0600</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A Plain Markdown Post</title>
-      <link>/2016/12/30/a-plain-markdown-post/</link>
-      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
+      <title>儿童医院</title>
+      <link>/2011/10/22/%E5%84%BF%E7%AB%A5%E5%8C%BB%E9%99%A2/</link>
+      <pubDate>Sat, 22 Oct 2011 13:09:13 -0600</pubDate>
       
-      <guid>/2016/12/30/a-plain-markdown-post/</guid>
-      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/2015/07/23/hello-r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/2015/07/23/hello-r-markdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
-    </item>
-    
-    <item>
-      <title>Lorem Ipsum</title>
-      <link>/2015/01/01/lorem-ipsum/</link>
-      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
-      
-      <guid>/2015/01/01/lorem-ipsum/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>/2011/10/22/%E5%84%BF%E7%AB%A5%E5%8C%BB%E9%99%A2/</guid>
+      <description>住在儿童医院对面，并不是一件让人特别高兴的事。更加让人无奈的是，我家不但对面有儿童医院，旁边五十米外还有南京中级人民法院。我并无意去关心这人世疾苦，但有些时候你并没有太多的选择。
+我入住不到一个月。第一次是见到一群劳工模样的中年人，举着铁碗，在法院前举起牌子上书“还我工资”，周围镁光镜无数；另一次，是四位老人，举着一对幸福恋人的新婚照片，两人男的帅女的正，无奈四位老人哭个不停，颤抖着叫喊着不着调的口号“还我儿女”，这次周围却是些一起陪哭的无名路人，那凄惨光景，我这一未来时的待业青年无能为力，只好在秋风中缩缩脖子，走了。
+这些是极端例子。生病可不是了，生病可是日常琐事。每天早上6点一过，我窗外儿童医院那个路口就喇叭按个不停，全都是心急如焚的想在早晨挤成个XX的广州路打转弯入医院停车场的父母。开得起车的或者有生气的权利，开不起车的，他们的愤怒我就不得而知了。但穷得再没饭吃的父母也知道把哭哭啼啼或者已经病得没有力气的孩子抱来南京儿童医院——这好像就是他们的圣地，他们的耶路撒冷，在这里，他们的主会给他们按手印，恶鬼便会远他们而去。
+于是全年到头这广州路上都是衣衫褴褛不知道从哪里冒出来的父母，拖着个同样脏兮兮的孩子；还有那些因此而生的各路卖玩具的小贩，蹲在路边，等待着，等待着他们各种的命运。我每天——每天，是指每一个早晨出门到傍晚回家——都会从无数个这样的人身边走过，即使我在这有着儿童医院、人民法院、金鹰天地、一头连着5万粉丝跟着XXX又跳又叫的五台山体育馆一头连着南京最繁华的数码街（珠江路）的万恶的广州路上仅仅只会走过200米，但我还是没有办法管好我的目光不扫到他们其中一个。“买一个玩具给孩子玩吧！”我拉了拉外套，加快走开了那些讨价还价的人堆。我看不得那些父母生硬的脸上那复杂表情，混着愤怒、可怜和劳累；“买一个吧，10块不贵！你儿子喜欢这个！”我听不得这些，我像恨一个诅咒我的人一样恨听到这些老江湖的叫卖。我更不敢回头，很怕很怕看到孩子那流着鼻涕一脸期待仰望着自己父亲的那种眼神，他不知道他的爸爸刚刚在那人潮拥挤的建筑里把半个月的工资，都花完了。
+我知道孩子会得到玩具的，也许不是他原来想要的那一个。但我讨厌这日日上演的戏码。我天天像逃离新闻联播一样逃离广州路，只因我怕我会太愤怒或者太难过。
+我的楼下住着一位老婆婆和她的媳妇和她的孙女。我很少见到年轻的那两个。但我每次上下楼都会见到那位老婆婆，呆滞地站在楼梯口，也就是他们门外的一片小阳台，望着马路对面的儿童医院，像一切你可以想象的麻木的老年人一样发呆。有一次我把一箱箱书往家里搬的时候她叫住了我“学生啊？”我点点头“纸箱子不要了，放我们家门口吧”。我照做了。于是我知道了她们是来求医的一家，从半掩的门里看去，家中其实什么都没有，名符其实的暂住。“住院太贵了，一天150！”她反复只有这一句。我问，小女孩什么病？她说出生之后到现在都不会说话，可能是听不见了。那医生怎么说？我问。“一天要150呗！太贵了……太贵了……”老奶奶反复喃喃，目光开始又望向对面。我没有再问。住在这里等什么呢？哪里来呢？家里的男人呢？我只往那半掩里的门看去，年轻的媳妇目光疲惫，没有一丝交谈的欲望。我看那空着的房子，心想，也许突然哪一天，她们就消失了呢？
+广州路校门有两摊烤串档，其中有一档是一个有点秃头的中年男和他老婆在开。“嘿小伙子，牛肉串羊肉串？”他总是特别热情，和旁边那档沉默的父子形成鲜明对比，虽然两家的羊肉串味儿都比猪肉还淡。行人道上，总坐着一个凶凶的不笑的白发男，叉着双手，像一个落魄的汉子，眼睛也只盯着地。只是当你走过他身边时你会听到句“嘿，煎饺蒸饺？”，就好像那声音是从人行道地板上出来的一样。
+我，我每天就这样，从那些老婆婆身边走过，从父母身边走过，去开始我那秋风里的一天；然后就是等到广州路都安静了，再走过那两档烤肉档，那个怒气的水饺男，回到我自己的家。睡前我一般都会很焦虑，我的托福怎么办呢，我的申请怎么办呢，我学分积烂成这样怎么办呢，我毕业论文怎么办呢，我小组团体呢，还有我那该死的实习全TM都怎么办呢，我TM下半年的房租生活费哪来呢。焦虑着焦虑着，我便很生气，就像我对这条广州路生气一样。我不知道谁应该为他们负责，但我至少知道我该为我负责啊。生气着，生气着，我只好起身去给我的植物浇水，然后睡去。
+我不服。谁知道呢，也许哪一天，我醒来，所有所有的这一切都没有了呢？</description>
     </item>
     
   </channel>
