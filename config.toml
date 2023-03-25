@@ -16,10 +16,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "GitHub"
     url = "https://github.com/diheng"
 [[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/dihengz"
+    name = "Mastodon"
+    url = "https://alive.bar/@Yvesadam"
 [[menu.main]]
-    name = "豆瓣"
+    name = "豆瓣(inactive)"
     url = "https://www.douban.com/people/yvesadam/"
 
 [params]
