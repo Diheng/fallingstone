@@ -1,6 +1,7 @@
 ---
 date: "2012-12-20T13:09:13-06:00"
 title: 与生活问题的对话
+draft: false
 categories:
   - Fiction
 ---
